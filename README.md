@@ -26,7 +26,7 @@ Sukia Game est un jeu où le joueur doit placer des fruits dans un récipient. A
 - Pastèque
 
 ## Installation :
-Vous pouvez installer le jeu en téléchargeant le zip de ce projet via le bouton vert **Code** -> **Download ZIP** ou [**via ce lien**](https://github.com/SWMR-Siya/Suika-game-win/archive/refs/heads/main.zip).
+Vous pouvez installer le jeu en téléchargeant le zip de ce projet via le bouton vert **Code** -> **Download ZIP** ou [**via ce lien**](https://github.com/Siya1809/Suika-game-win/archive/refs/heads/main.zip).
 
 Ensuite, vous devez extraire le fichier téléchargé, soit par le logiciel de base de Windows, soit par un autre logiciel tiers comme WinZip.
 
